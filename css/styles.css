@@ -193,3 +193,14 @@ body {
   left: 600px;
   top: 500px;
 }
+
+.text {
+  position: absolute;
+  color: white;
+  width: 1000px;
+  font-family: 'Ubuntu';
+  z-index: 2;
+  left: 100px;
+  top: 50px;
+  font-size: 50px;
+}
